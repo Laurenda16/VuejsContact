@@ -1,2 +1,2 @@
 # VuejsContact
-appritissage de vue js
+apprentissage de vue js
